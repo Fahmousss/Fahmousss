@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adzka Fahmi</h1>
-<h3 align="center">an Information Systems student at UNSRI venturing into the world of website development. I bring a background in design and UI/UX to the table⚡.</h3>
+<h3 align="center">
+I'm an Information Systems student at [University Name] eager to bridge the gap between design and development. With a background in UI/UX design, I'm venturing into the world of web development, bringing a user-centric approach to crafting beautiful and functional websites⚡.</h3>
 
 - 🔭 I’m currently working on **my own portofolio using NextJS**
 

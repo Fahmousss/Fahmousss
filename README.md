@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adzka Fahmi</h1>
 <h3 align="center">an Information Systems student at UNSRI venturing into the world of website development. I bring a background in design and UI/UX to the table⚡.</h3>
 
-- 🔭 I’m currently working on **my portofolio**
+- 🔭 I’m currently working on **my own portofolio using NextJS**
 
 - 🌱 I’m currently learning **Framework Laravel 11, and NextJS**
 
-- 👨‍💻 All of my projects are available at [still working on it🔭](still working on it🔭)
+- 👨‍💻 All of my projects are available at [still working on it🔭]
 
 - 📫 How to reach me **adzka.alhakim@gmail.com**
 

@@ -4,7 +4,7 @@ I'm an Information Systems student at Sriwijaya University eager to bridge the g
 
 - 🔭 I’m currently working on **my own portofolio using NextJS**
 
-- 🌱 I’m currently learning **Framework Laravel 11, and NextJS**
+- 🌱 I’m currently learning **Framework Laravel 12**
 
 - 👨‍💻 All of my projects are available at [still working on it🔭]
 

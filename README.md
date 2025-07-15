@@ -6,7 +6,7 @@ I'm an Information Systems student at Sriwijaya University eager to bridge the g
 
 - 🌱 I’m currently learning **Framework Laravel 12**
 
-- 👨‍💻 All of my projects are available at <a href="https://fahmousss.xyz" target="blank"><img align="center" alt="adzkafahmi" />here</a>
+- 👨‍💻 All of my projects are available at <a href="https://fahmousss.xyz" target="blank">here</a>
 
 - 📫 How to reach me **adzka.alhakim@gmail.com**
 
